@@ -4,6 +4,6 @@
 2. Not risking or hurting humans via collision.
 3. Having a camera and being able to publish real time images.
 4. Using cable driven system.
-5. Power-off failure safe.
+5. Having power-off failure safe.
 6. Being able to remotely control motion and image acquisiton.
 7. Moving to a given position autonomously.
