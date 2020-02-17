@@ -1,7 +1,7 @@
 # Design Requirements
 
 1. Being able to roam in a predefined volume by staying parallel to the ground.
-2. Not risking or hurting humans via collision.
+2. Not risking or hurting humans by any means.
 3. Having a camera and being able to publish real time images.
 4. Using cable driven system.
 5. Having power-off failure safe.
