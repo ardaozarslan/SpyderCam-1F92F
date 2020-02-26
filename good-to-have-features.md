@@ -5,3 +5,4 @@
 3. A hook or a puppet(spider) "hanging" down controlled by SpyderCam
 4. Communicating via a display after poking someone on the shoulders
 5. Its hook being able to transport small materials
+6. Being able to remotely control motion.
