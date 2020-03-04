@@ -1,1 +1,1 @@
-0.67 m --> makara dolgu
+0.67+0.59 m --> makara dolgu
