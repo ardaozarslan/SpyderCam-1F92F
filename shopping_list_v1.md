@@ -1,5 +1,5 @@
-6x  18650 li-ion 3500mAH
-1x  Raspberry 4
+6x  başlıklı 18650 li-ion 3500mAH(https://urun.n11.com/sarj-edilebilen-pil/sarjli-pil-37v-3500mah-18650-baslikli-narita-P365924882?gclid=Cj0KCQiAhojzBRC3ARIsAGtNtHUuf_EyiCDosj2svUkTZ5_CAHWh2uVtGSmseTL5s_sWap9Mk4m4wisaAnfFEALw_wcB&gclsrc=aw.ds)/n
+1x  Raspberry 4(https://www.robotistan.com/raspberry-pi-4-4gb)
 1x  Raspberry 4 lisanslı adaptör(https://www.robotistan.com/raspberry-pi-4-lisansli-guc-adaptoru-5v-3a-usb-c)
 1x  32GB hafıza kartı (https://www.robotistan.com/sandisk-32gb-microsdhc-hafiza-karti-class10-48mbsn-okuma-hizi-kart-adaptorlu)
 1x  raspb. cam(https://www.direnc.net/raspberry-pi-kamera-modulu)
