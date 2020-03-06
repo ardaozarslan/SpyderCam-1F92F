@@ -11,5 +11,7 @@
 4x  3m 30x30 8mm sigma profil
 4x  1.5m 30x30 8 mm sigma profil
 14x 2m 30x30 8mm sigma profil
+54x sigma bağlantı parçası
+98x 8 kanal tırtıllı somun ve vida
 2kg PLA+ 1.75mm filamant (tercihan Esun)
 1kg TPU 1.75mm filament (tercihan Esun)
