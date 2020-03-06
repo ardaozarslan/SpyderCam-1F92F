@@ -14,4 +14,4 @@
 54x sigma bağlantı parçası
 98x 8 kanal tırtıllı somun ve vida
 2kg PLA+ 1.75mm filamant (tercihan Esun) (https://www.robotistan.com/esun-175-mm-soguk-beyaz-pla-filament-cold-white-7841?language=tr&h=ee8e72b9&gclid=Cj0KCQiAhojzBRC3ARIsAGtNtHUxyqmG9a8X_-dOT3j1_-MYxowLyDaoJSDU2J9Fk4ncuIABTxT-sGIaAjDaEALw_wcB)
-1kg TPU 1.75mm filament (tercihan Esun) (https://www.direnc.net/filament-175-mm-natural-flex-esnek-abg)
+1kg TPU 1.75mm filament (https://www.direnc.net/filament-175-mm-natural-flex-esnek-abg)
