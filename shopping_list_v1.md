@@ -9,6 +9,7 @@
 1x  MEMS Gyroscope/Accelerometer MPU 9250
 6x  NodeMCUv3 esp8266 (lolin v3 esp8266)
 4x  3m 30 sigma profil
-10x 2m 30 sigma profil
+4x  1.5m 30 sigma profil
+14x 2m 30 sigma profil
 2kg PLA+ 1.75mm filamant (tercihan Esun)
 1kg TPU 1.75mm filament (tercihan Esun)
