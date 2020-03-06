@@ -8,8 +8,8 @@
 6x  akım sensörü (https://www.robotistan.com/acs711ex-akim-sensoru-current-sensor-carrier-155-to-155a-pl-2452)
 1x  MEMS Gyroscope/Accelerometer MPU 9250
 6x  NodeMCUv3 esp8266 (lolin v3 esp8266)
-4x  3m 30 sigma profil
-4x  1.5m 30 sigma profil
-14x 2m 30 sigma profil
+4x  3m 30x30 8mm sigma profil
+4x  1.5m 30x30 8 mm sigma profil
+14x 2m 30x30 8mm sigma profil
 2kg PLA+ 1.75mm filamant (tercihan Esun)
 1kg TPU 1.75mm filament (tercihan Esun)
